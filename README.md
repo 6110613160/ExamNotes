@@ -1,6 +1,6 @@
 # ExamNotes
 
-* Updated 23 Sep 2024
+* Updated 24 Sep 2024
 
 Semester 1/2024 (2567)
 
@@ -8,11 +8,11 @@ Semester 1/2024 (2567)
 
 |   Topic   | Date | Time | Location |
 | --------- | ---- | ---- | -------- |
-| AT326 | 01 Oct 2024 | 09:00-12:00 | Room SC4020 Seat No.3 |
+| AT326 | 1 Oct 2024 | 09:00-11:00 | Room SC4020 Seat 3 |
 | CN203 | TBD | TBD | TBD |
 | CN409 | TBD | TBD | TBD |
 | CN476 | TBD | TBD | TBD |
-| MA214 | 04 Dec 2024 | 13:00-16:00 | Room LC5-S306 Seat No.4 |
+| MA214 | 4 Oct 2024 | 14:30-16:30 | Room LC5-S306 Seat 4 |
 
 ## Final Time Table
 
